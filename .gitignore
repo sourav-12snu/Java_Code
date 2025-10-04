@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
